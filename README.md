@@ -1,22 +1,24 @@
-# Proyecto_PLC_SchneiderElectric_Alex
-Programacion de PLC para una maqueta con  diversas maquinas, cintas y sensores.
+# Control de Automatismo con PLC Schneider M221 e Interfaz HMI
 
-Proyecto 1 Schneider Electric con M221.
+Proyecto de automatización industrial desarrollado para PLC Modicon M221 e interfaz HMI en Vijeo Designer.
 
-Contiene
-	- Proyecto, programado en LD(.smbp)
-	- Pantalla HMI(.vdz)
+---
 
-Una carpeta con un pdf del proyecto para visualizar sin tener que abrir el archivo. 
+## 🛠️ Archivos y Software Requerido
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 1. Programa PLC
+* **Archivo:** `PLC + HMI/Proyecto_PLC_M221_Alex.smbp`
+* **Software:** EcoStruxure Machine Expert - Basic (Gratuito)
+* **Hardware:** Modicon M221 (TM221CE24R)
 
-Se ha a realizado el control de una maqueta Fischertechnik, la cual es una
-línea de fabricación con dos máquinas herramienta, cinco cintas y dos selectores.
+### 2. Pantalla HMI
+* **Archivo:** `PLC + HMI/Proyecto_PLC_M221_Alex.vdz`
+* **Software:** Vijeo Designer
 
-Se han realizado:
-	- Diagrama de cableado de la maqueta.
-	‐ Red de Petri
-	‐ Implementación mediante Grafcet (las secciones LD)
-	- Implementación de diferentes modos de la guía Gemma.
-	‐ Implementar el panel de control de la máquina en un terminal de explotación.
+### 3. Documentación y Diagramas
+* En la carpeta `Docs/` encontrarás el informe en PDF con el programa de contactos/Ladder y esquemas completos exportados para revisión rápida sin necesidad de instalar el software.
+
+---
+
+## 👤 Autor
+* **Alex Aquino Sala**
